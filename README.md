@@ -8,6 +8,6 @@ In this project, I am responsible for:
 - Reviewing the work of my colleagues
 
 The tools I used to create this project include:
-📊 SQL Server Management Studio 18
-🖥️ Visual Paradigm Community Edition version 17.1
-📃 Microsoft Word
+- 📊 SQL Server Management Studio 18
+- 🖥️ Visual Paradigm Community Edition version 17.1
+- 📃 Microsoft Word
